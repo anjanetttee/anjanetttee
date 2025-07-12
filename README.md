@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <h2>📫 How to Reach Me:</h2>
 <br>
 Email: anjanette.auwlia@gmail.com<br>
-LinkedIn: [linkedin.com/in/yourprofile (*link your profile URL)](https://www.linkedin.com/in/anjanetteauwlia)
+LinkedIn:(https://www.linkedin.com/in/anjanetteauwlia)
