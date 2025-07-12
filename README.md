@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🎓Senior at Cal Poly Pomona, studying Computer Science
+
 🌱 Aspiring Data Analyst / Data Scientist interested in the intersection of data, product, and growth marketing.
+
+📫 How to Reach Me:
+Email: anjanette.auwlia@gmail.com
+LinkedIn: [linkedin.com/in/yourprofile (*link your profile URL)](https://www.linkedin.com/in/anjanetteauwlia)
