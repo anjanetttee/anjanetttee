@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>🎓Senior at Cal Poly Pomona, studying Computer Science</h2>
+🎓Senior at Cal Poly Pomona, studying Computer Science
 <br>
 🌱 Aspiring Data Analyst / Data Scientist interested in the intersection of data, product, and growth marketing.
 
