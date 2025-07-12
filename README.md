@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓Senior at Cal Poly Pomona, studying Computer Science
+<h2>🎓Senior at Cal Poly Pomona, studying Computer Science</h2>
 <br>
 🌱 Aspiring Data Analyst / Data Scientist interested in the intersection of data, product, and growth marketing.
 
-📫 How to Reach Me:
+<h2>📫 How to Reach Me:</h2>
+<br>
 Email: anjanette.auwlia@gmail.com
 <br>
 LinkedIn: [linkedin.com/in/yourprofile (*link your profile URL)](https://www.linkedin.com/in/anjanetteauwlia)
