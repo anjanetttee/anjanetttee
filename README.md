@@ -11,5 +11,5 @@
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
 <h2>📫 How to Reach Me:</h2>
-Email: laauwlia@cpp.edu/anjanette.auwlia@gmail.com<br>
+Email: anjanette.auwlia@gmail.com<br>
 LinkedIn:(https://www.linkedin.com/in/anjanetteauwlia)
